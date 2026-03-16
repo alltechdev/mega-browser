@@ -1,5 +1,6 @@
 {
   "allowed_links": [
-    "https://cellularisrael.com"
+    "https://cellularisrael.com",
+    "*.cellularisrael.com"
   ]
 }
