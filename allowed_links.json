@@ -1,7 +1,6 @@
 {
   "allowed_links": [
     "https://cellularisrael.com",
-    "*.cellularisrael.com",
-    "https://forums.jtechforums.org"
+    "*.cellularisrael.com"
   ]
 }
